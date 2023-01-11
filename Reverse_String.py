@@ -1,4 +1,6 @@
-sdef reverse_words(s):
+#This is the code to reverse a string.
+
+def reverse_words(s):
     
     words = s.split()
     
